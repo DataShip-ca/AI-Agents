@@ -1,0 +1,10 @@
+AI-Agents/agents/agent-template/
+  README.md
+  SOW.md
+  docs/
+    SOP.md
+    Architecture.md
+    Ops-Runbook.md
+  src/
+  configs/
+  tests/
