@@ -1,0 +1,19 @@
+AI-Agents/
+  agents/
+    agent-template/
+      README.md
+      SOW.md
+      docs/
+        SOP.md
+        Architecture.md
+        Ops-Runbook.md
+      src/
+      configs/
+      tests/
+  .github/
+    ISSUE_TEMPLATE/
+      bug.md
+      feature.md
+    PULL_REQUEST_TEMPLATE.md
+  CODEOWNERS
+  .env.example
